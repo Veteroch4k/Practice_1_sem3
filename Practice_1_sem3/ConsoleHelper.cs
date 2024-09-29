@@ -91,7 +91,7 @@ namespace Practice_1_sem3
             // Заголовок столбца
             Console.SetCursorPosition(1, 2);
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.Write("C:\u2193"); // "↓"
+            Console.Write("C: "); // "↓"
             Console.Write(" Имя");
             for (int i = 0; i < 3; i++)
             {
@@ -152,7 +152,7 @@ namespace Practice_1_sem3
             Console.ForegroundColor = ConsoleColor.DarkYellow;
 
             Console.SetCursorPosition (41, 2);
-            Console.Write("C:\u2193"); // "↓"
+            Console.Write("C: "); // "↓"
             Console.Write(" Имя");
             Console.SetCursorPosition(56, 2);
             Console.Write("Размер");
