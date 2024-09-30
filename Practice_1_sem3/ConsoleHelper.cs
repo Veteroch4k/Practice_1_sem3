@@ -299,7 +299,7 @@ namespace Practice_1_sem3
             Console.Write("\u2564");
             WriteDoubleHorizontalLine(6);
 
-            Console.Write("\u2557");
+            Console.WriteLine("\u2557");
         }
 
         private static void DrawInterface()
